@@ -1,0 +1,49 @@
+<resources>
+    <dimen name="accident_grid_width">700dp</dimen>
+    <dimen name="accident_grid_height">240dp</dimen>
+    <dimen name="accident_begin_x">0dp</dimen>
+    <dimen name="accident_begin_y">10dp</dimen>
+    <dimen name="accident_x_space">30dp</dimen>
+    <dimen name="accidentXYLineWidth">1dp</dimen>
+    <dimen name="accidentYTextXOffset">5dp</dimen>
+    <dimen name="accidentWhiteWidthOffset">20dp</dimen>
+    <dimen name="accidentDashDistance">2dp</dimen>
+    <dimen name="innerLineWidth">1dp</dimen>
+    <dimen name="accident_y_space">30dp</dimen>
+    <dimen name="accident_reck_height">10dp</dimen>
+    <dimen name="left_right_text_padding">1dp</dimen>
+    <dimen name="left_right_text_size">10sp</dimen>
+    <dimen name="bottom_subtractor">15dp</dimen>
+    <dimen name="bottom_text_subtractor">6dp</dimen>
+    <dimen name="lenged_length">4dp</dimen>
+    <dimen name="accidentYTextYOffset">3dp</dimen>
+    <dimen name="pile_no_textsize">9sp</dimen>
+    <dimen name="time_accident_y_textsize">3sp</dimen>
+    <dimen name="line_space">1dp</dimen>
+    <dimen name="histogram_width">20dp</dimen>
+    <dimen name="legend_reck_height">10dp</dimen>
+    <dimen name="legend_reck_width">20dp</dimen>
+    <dimen name="legend_reck_subtractor">17dp</dimen>
+    <dimen name="legend_text_subtractor">9dp</dimen>
+    <dimen name="legend_center_offset">5dp</dimen>
+    <dimen name="left_legend_reck_offset">62dp</dimen>
+    <dimen name="right_legend_text_offset">30dp</dimen>
+    <dimen name="left_count_y_offset">2dp</dimen>
+    <dimen name="right_count_y_offset">8dp</dimen>
+    <dimen name="degree_y_width">10dp</dimen>
+    <dimen name="y_padding">10dp</dimen>
+    <dimen name="cb_padding_right">7dp</dimen>
+
+    <dimen name="chart_begin_x">20dp</dimen>
+    <dimen name="chart_begin_y">5dp</dimen>
+    <dimen name="chart_right_pading">20dp</dimen>
+    <dimen name="chart_right_real_pading">45dp</dimen>
+    <dimen name="road_state_text_size">14sp</dimen>
+    <dimen name="count_text_size">12sp</dimen>
+    <dimen name="vertical_line_x">80dp</dimen>
+    <dimen name="reck_subtractor">12dp</dimen>
+    <dimen name="reck_height">15dp</dimen>
+    <dimen name="count_text_offset">2dp</dimen>
+    <dimen name="center_offset">5dp</dimen>
+
+</resources>
